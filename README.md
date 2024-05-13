@@ -11,7 +11,7 @@ This project consists of multiple forms that handle different functionalities of
 ### 1. LoginPage
 
 ![LoginPage](![image](https://github.com/Gamer997/Integrated-Hotel-Booking-and-Dining-System/assets/98121819/bcac3e59-9e13-48c5-936f-6cad5ca4c438)
-)
+
 
 Description: The LoginPage form allows users to log in to the hotel management system by entering their username and password.
 
